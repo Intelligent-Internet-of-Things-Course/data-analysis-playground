@@ -1,0 +1,5 @@
+{"device_id":"temperature_0001", "type":"iot.dummy.sensor.temperatue", "value":21.5, "timestamp": 1607784715}
+{"device_id":"temperature_0001", "type":"iot.dummy.sensor.temperatue", "value":20.5, "timestamp": 1607785715}
+{"device_id":"temperature_0001", "type":"iot.dummy.sensor.temperatue", "value":21.2, "timestamp": 1607786715}
+{"device_id":"temperature_0001", "type":"iot.dummy.sensor.temperatue", "value":21.1, "timestamp": 1607787715}
+{"device_id":"temperature_0001", "type":"iot.dummy.sensor.temperatue", "value":21.6, "timestamp": 1607788715}

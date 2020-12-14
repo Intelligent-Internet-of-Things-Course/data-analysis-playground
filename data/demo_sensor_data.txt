@@ -1,0 +1,5 @@
+temperature_0001:iot.dummy.sensor.temperatue:21.5:1607784715
+temperature_0001:iot.dummy.sensor.temperatue:22.5:1607785715
+temperature_0001:iot.dummy.sensor.temperatue:23.5:1607786715
+temperature_0001:iot.dummy.sensor.temperatue:20.5:1607787715
+temperature_0001:iot.dummy.sensor.temperatue:24.5:1607788715
